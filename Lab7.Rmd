@@ -1,6 +1,6 @@
 ---
 title: "Lab 7"
-output: html_document
+output: pdf_document
 ---
 
 ```{r global_options, include=FALSE}
@@ -57,7 +57,6 @@ austen_books() |>
 
 The goal of the lab is to conduct some sentiment analysis for one of these books.
 
-------------------------------------------------------------------------
 
 ### Question 1: (6 pts)
 
@@ -89,7 +88,6 @@ How many chapters were contained in the `book` you chose?
 
 **Your answer goes here. Write sentences in bold.**
 
-------------------------------------------------------------------------
 
 ### Question 2: (3 pts)
 
@@ -102,7 +100,6 @@ Next, we will split each line into words (this is sometimes called "tokenization
 
 **Your answer goes here. Write sentences in bold.**
 
-------------------------------------------------------------------------
 
 ### Question 3: (4 pts)
 
@@ -130,7 +127,6 @@ Find the 10 most common words in `words_book` and display those in a word cloud.
 
 **Your answer goes here. Write sentences in bold.**
 
-------------------------------------------------------------------------
 
 ### Question 4: (5 pts)
 
@@ -162,7 +158,6 @@ How do the sentiments evolve as the story goes?
 
 **Your answer goes here. Write sentences in bold.**
 
-------------------------------------------------------------------------
 
 ### Formatting: (2 pts)
 
